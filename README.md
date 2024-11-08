@@ -22,6 +22,10 @@ Dive deeper into image classification with Convolutional Neural Networks (CNNs) 
 Learn to leverage pre-trained models for new tasks through transfer learning and finetuning techniques.
 - [Colab Notebook: Transfer Learning and Finetuning Image Classifiers](https://colab.research.google.com/drive/1JZ6TUAIxv0y5XAW-O9Kj_frUdNd7s3To#scrollTo=RUNoQNgtfNgt)
 
+### 5. An Unhealthy Obsession with Autoencoders: Unsupervised Algorithms for Image Denoising and Anomaly Detection
+How can a deep neural network learn without supervision? And how does it change the industries?
+- [Colab Notebook: Autoencoders](https://colab.research.google.com/drive/1nbXILPxZSMW9_psV-n8Aydxvdu4SCr-E#scrollTo=sOcfXfXq6FBd)
+
 ### 5. Basic Text Classification
 Introduction to text classification using neural networks for Natural Language Processing (NLP) tasks.
 - [Colab Notebook: Basic Text Classification](https://colab.research.google.com/drive/1wUjPDGKpL0FrndIkENfqjXLakJMsNF49#scrollTo=QW355HH5L49K)
