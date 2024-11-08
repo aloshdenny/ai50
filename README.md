@@ -26,19 +26,19 @@ Learn to leverage pre-trained models for new tasks through transfer learning and
 How can a deep neural network learn without supervision? And how does it change the industries?
 - [Colab Notebook: Autoencoders](https://colab.research.google.com/drive/1nbXILPxZSMW9_psV-n8Aydxvdu4SCr-E#scrollTo=sOcfXfXq6FBd)
 
-### 5. Basic Text Classification
+### 6. Basic Text Classification
 Introduction to text classification using neural networks for Natural Language Processing (NLP) tasks.
 - [Colab Notebook: Basic Text Classification](https://colab.research.google.com/drive/1wUjPDGKpL0FrndIkENfqjXLakJMsNF49#scrollTo=QW355HH5L49K)
 
-### 6. Text Classification Using RNNs
+### 7. Text Classification Using RNNs
 Explore Recurrent Neural Networks (RNNs) for handling sequential data in text classification tasks.
 - [Colab Notebook: Text Classification Using RNNs](https://colab.research.google.com/drive/1TXrInsHe2Gbennu2elLbOP8BKv9SVAqN#scrollTo=z682XYsrjkY9)
 
-### 7. Text Generation Using RNNs
+### 8. Text Generation Using RNNs
 Experiment with RNNs for generating text sequences, training models to predict and produce text based on patterns in the data.
 - [Colab Notebook: Text Generation Using RNNs](https://colab.research.google.com/drive/1Ee5M_wc4NpVCEk2LV3KoQ0kOW6ofhJEd#scrollTo=UlUQzwu6EXam)
 
-### 8. Simple Audio Recognition
+### 9. Simple Audio Recognition
 Apply deep learning to recognize basic audio signals, using convolutional networks for audio classification.
 - [Colab Notebook: Simple Audio Recognition](https://colab.research.google.com/drive/1s_J67g-9OrvqnhZLX1bf97xUvIqwRGKd#scrollTo=wTAg4vsn3oEb)
 
