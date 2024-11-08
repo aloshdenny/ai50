@@ -6,6 +6,10 @@ Welcome to **AI50** – a collection of beginner-friendly and intermediate-level
 
 Explore and experiment with deep learning fundamentals using the following notebooks:
 
+### 0. Basics of Tensorflow
+Tensor operations, math and dataset loading in Tensorflow.
+- [Colab Notebook: Basics](https://colab.research.google.com/drive/1B9jNPZf1f8cUhQps045-0pFB0Rp0-0P4)
+
 ### 1. Regression
 Learn the basics of regression, a supervised learning approach for predicting continuous outputs.
 - [Colab Notebook: Regression](https://colab.research.google.com/drive/137H4Bu5MdiiDzBsHhucfi8GFzmH4nML3#scrollTo=f_GchJ2tg-2o)
