@@ -2,6 +2,9 @@
 
 Welcome to **AI50** – a collection of beginner-friendly and intermediate-level deep learning notebooks designed to introduce essential deep learning concepts and applications. Each Colab notebook covers a specific topic with hands-on examples.
 
+[Tensorflow Playground](http://playground.tensorflow.org/)
+[Tensorflow Projector](https://projector.tensorflow.org/)
+
 ## Notebooks Overview
 
 Explore and experiment with deep learning fundamentals using the following notebooks:
