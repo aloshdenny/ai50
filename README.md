@@ -4,6 +4,7 @@ Welcome to **AI50** – a collection of beginner-friendly and intermediate-level
 
 [Tensorflow Playground](http://playground.tensorflow.org/)
 [Tensorflow Projector](https://projector.tensorflow.org/)
+[OpenCV for Beginners](https://colab.research.google.com/drive/1WlO6DeIVhzeDonIpLZmBZbgXkcIQMgVX?usp=sharing)
 
 ## Notebooks Overview
 
