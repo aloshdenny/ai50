@@ -6,6 +6,19 @@ Welcome to **AI50** – a collection of beginner-friendly and intermediate-level
 [Tensorflow Projector](https://projector.tensorflow.org/)
 [OpenCV for Beginners](https://colab.research.google.com/drive/1WlO6DeIVhzeDonIpLZmBZbgXkcIQMgVX?usp=sharing)
 
+## AI & ML Bootcamp: no-code notebooks
+
+Run-and-see notebooks for complete beginners. Press ▶ on each cell, change the values in the boxes, run it again. No coding needed. Notebooks 04–06 run best on a free GPU: *Runtime → Change runtime type → T4 GPU*.
+
+| # | notebook | open |
+|---|---|---|
+| 01 | **python playground** · variables, lists, loops, ifs, a first chart | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aloshdenny/ai50/blob/main/bootcamp/01_python_playground.ipynb) |
+| 02 | **the titanic, in python** · load, look, clean, ask, chart | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aloshdenny/ai50/blob/main/bootcamp/02_titanic_data.ipynb) |
+| 03 | **three ways to decide** · decision trees, nearest neighbours, k-means, regression, a model race | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aloshdenny/ai50/blob/main/bootcamp/03_three_ways_to_decide.ipynb) |
+| 04 | **how machines see** · pixels, photo effects, image recognition, object detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aloshdenny/ai50/blob/main/bootcamp/04_computer_vision.ipynb) |
+| 05 | **how machines read and talk** · sentiment, translation, tokens, a chatbot, hallucinations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aloshdenny/ai50/blob/main/bootcamp/05_language_ai.ipynb) |
+| 06 | **final project** · four fill-in-the-boxes project tracks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aloshdenny/ai50/blob/main/bootcamp/06_final_project.ipynb) |
+
 ## Notebooks Overview
 
 Explore and experiment with deep learning fundamentals using the following notebooks:
